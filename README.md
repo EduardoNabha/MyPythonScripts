@@ -1,2 +1,2 @@
 # MyPythonScripts
-This repo is a colection of my scripts.
+This repo is a colection of autoral scripts made by myself for learning Python.
